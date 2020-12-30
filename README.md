@@ -6,15 +6,11 @@ I am a recent University College Dublin Graduate of 2020.
 
 ### Dashboard Links (requires login)
 
-[VPN Home](79.97.18.50)
-
-[VPN Server Internal](192.168.0.11)
-
 [PiHole Internal](192.168.0.11/pihole)
 
-[Gogs Self-hosted Git](79.97.18.50:3000)
+[Gogs Self-hosted Git](http://79.97.18.50:3000)
 
-[TrueNAS Home](79.97.18.50:46)
+[TrueNAS Home](http://79.97.18.50:46)
 
 ```markdown
 Syntax highlighted code block
