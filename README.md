@@ -6,7 +6,7 @@ I am a recent University College Dublin Graduate of 2020.
 
 ### Dashboard Links (requires login)
 
-[PiHole Internal](192.168.0.11/pihole)
+[PiHole Internal](http://192.168.0.11/pihole)
 
 [Gogs Self-hosted Git](http://79.97.18.50:3000)
 
