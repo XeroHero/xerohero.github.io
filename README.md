@@ -29,7 +29,7 @@ Subjects:
 * Applied Mathematics
 * Higher Level International Stream (German, French, Italian languages)
 
-### Dashboard Links (requires login)
+### Dashboard Links (requires login and VPN connection to dataacenter)
 
 [PiHole Internal](http://192.168.0.11/admin/)
 
