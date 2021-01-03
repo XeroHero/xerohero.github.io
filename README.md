@@ -11,13 +11,7 @@ I am a recent University College Dublin Graduate of 2020.
 2018-Present: Junior Quality Assurance Engineer at Oneview Healthcare Plc, 
 Blackrock, Co. Dublin, IE
 I am currenty Junior QA Engineer, with extensive experience in testing Android and Windows-based solutions for the Healthcare Environment. 
-* Technologies used:
-** Jira
-** TestRail
-** Python
-** C#
-** Java
-** Kotlin
+* Technologies used: Jira, TestRail, Python, C#, Java, Kotlin
 
 #### Education
 
