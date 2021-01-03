@@ -1,25 +1,45 @@
-## Lorenzo Battilocchi
+# Lorenzo Battilocchi
 
 Welcome to my Home Page. 
 
-I am a recent University College Dublin Graduate of 2020.
+I am a recent University College Dublin Graduate of 2020, passionate about Testing, Software development and Electronics.
 
-### Background
+## Background
 
-#### Career
+### Career
 
-2018-Present: Junior Quality Assurance Engineer at Oneview Healthcare Plc, 
-Blackrock, Co. Dublin, IE
+**May 2018-Present: Junior Quality Assurance Engineer at Oneview Healthcare Plc, 
+Blackrock, Co. Dublin, IE** 
 I am currenty Junior QA Engineer, with extensive experience in testing Android and Windows-based solutions for the Healthcare Environment. 
 * Technologies used: Jira, TestRail, Python, C#, Java, Kotlin
 
-#### Education
+**May 2018-September 2018: QA Intern at Oneview Healthcare Plc,
+Blackrock, Co. Dublin, IE**
+During the summmer of my 2nd year of college, I undertook an self-sought internship in Oneview Healthcare. As a QA Intern, my duties and responsibilities were:
+* Ensuring the certification of new hardware going to hospitals 
+* Testing out the monthly releases of the client application before go-live.
+* Testing internal release candidates
+* Supporting with on-site issues and troubleshooting
+* Applying security patches to internal servers
+* Running automated tests against the Clinical Dashboard with the help of Selenium and RobotFramework
 
-2016-2020: University College Dublin 
+**May 2017-September 2017: Mobile Developer (Android) at Wyscout S.p.a.,
+Chiavari (GE), IT**
+During the summer of my first year of college, I iworked as Mobile development intern in Wyscout. Here, I was sided by a Senior Android developer  to build and test the company's android application to be released in the Google Play Store. Duties in this role included:
+* Testing daily builds of the app
+* Interacting with REST APIs from which the data was fed
+* Testing out Messaging feature of the app
+* Video playback optimisation
+* Sign and release APKs on the public Google Play Store
+* Analyse logs of crashes via HockeyApp logging framework and later on Google Crashlytics
+
+### Education
+
+**2016-2020: University College Dublin**
 Honours Degree: BSc. Computer Science with Major in Software Development and Testing
 GPA: 3.4
 
-2011-2016: Dunshaughlin Community College
+**2011-2016: Dunshaughlin Community College**
 Leaving Certificate High Achiever (505/625)
 Junior Certificate 2014 Excellence in Modern Languages Award Recipient
 Subjects: 
