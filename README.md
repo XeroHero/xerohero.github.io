@@ -49,6 +49,16 @@ Subjects:
 * Applied Mathematics
 * Higher Level International Stream (German, French, Italian languages)
 
+### Contact Me
+
+E-mail: battilocchilorenzo98@gmail.com // lorenzo.battilocchi@ucdconnect.ie
+
+Phone: +353 (0) 85 265 0053 // +353 (0) 1 801 1895
+
+LinkedIn: https://www.linkedin.com/in/lorenzo-battilocchi-197888104/
+
+Instagram: @53DegreeNorth
+
 ### Dashboard Links (requires login and VPN connection to datacenter)
 
 [PiHole Internal](http://192.168.0.11/admin/)
