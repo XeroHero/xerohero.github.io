@@ -51,7 +51,7 @@ Subjects:
 
 ### Contact Me
 
-E-mail: battilocchilorenzo98@gmail.com // lorenzo.battilocchi@ucdconnect.ie
+E-mail: [battilocchilorenzo98@gmail.com](mailto:battilocchilorenzo98@gmail.com) // [lorenzo.battilocchi@ucdconnect.ie](mailto:lorenzo.battilocchi@ucdconnect.ie)
 
 Phone: +353 (0) 85 265 0053 // +353 (0) 1 801 1895
 
