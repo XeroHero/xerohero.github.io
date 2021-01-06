@@ -40,8 +40,8 @@ During the summer of my first year of college, I iworked as Mobile development i
 
 **2016-2020: University College Dublin**
 
-⋅⋅* Honours Degree: BSc. Computer Science with Major in Software Development and Testing
-⋅⋅* GPA: 3.4
+* Honours Degree: BSc. Computer Science with Major in Software Development and Testing
+* GPA: 3.4
 
 **2011-2016: Dunshaughlin Community College**
 
@@ -49,11 +49,11 @@ During the summer of my first year of college, I iworked as Mobile development i
 * Junior Certificate 2014 Excellence in Modern Languages Award Recipient
 
 Subjects: 
-⋅⋅* Higher Level Mathematics
-⋅⋅* Higher Level English
-⋅⋅* Higher Level Scientific Stream (Biology, Chemistry, Physics)
-⋅⋅* Applied Mathematics
-⋅⋅* Higher Level International Stream (German, French, Italian languages)
+* Higher Level Mathematics
+* Higher Level English
+* Higher Level Scientific Stream (Biology, Chemistry, Physics)
+* Applied Mathematics
+* Higher Level International Stream (German, French, Italian languages)
 
 ### Contact Me
 
