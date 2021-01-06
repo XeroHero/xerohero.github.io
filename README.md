@@ -57,7 +57,7 @@ Phone: +353 (0) 85 265 0053 // +353 (0) 1 801 1895
 
 LinkedIn: [Profile](https://www.linkedin.com/in/lorenzo-battilocchi-197888104/)
 
-Instagram: @53DegreeNorth
+Instagram: [@53DegreeNorth](https://www.instagram.com/53degreenorth/)
 
 ### Dashboard Links (requires login and VPN connection to datacenter)
 
