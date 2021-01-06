@@ -40,8 +40,9 @@ Honours Degree: BSc. Computer Science with Major in Software Development and Tes
 GPA: 3.4
 
 **2011-2016: Dunshaughlin Community College**
-Leaving Certificate High Achiever (505/625)
-Junior Certificate 2014 Excellence in Modern Languages Award Recipient
+* Leaving Certificate High Achiever (505/625)
+* Junior Certificate 2014 Excellence in Modern Languages Award Recipient
+
 Subjects: 
 * Higher Level Mathematics
 * Higher Level English
