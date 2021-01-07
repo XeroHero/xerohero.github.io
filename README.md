@@ -59,7 +59,7 @@ During the summer of my first year of college, I iworked as Mobile development i
     * Applied Mathematics
     * Higher Level International Stream (German, French, Italian languages)
 
-#### Languages Spoken !(https://gyazo.com/6459f26237389f3d0bc862a614de96a5.png)
+#### Languages Spoken ![](https://gyazo.com/6459f26237389f3d0bc862a614de96a5.png)
 
 * English: Mothertongue
 * Italian: Mothertongue
