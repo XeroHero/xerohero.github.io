@@ -59,6 +59,14 @@ During the summer of my first year of college, I iworked as Mobile development i
     * Applied Mathematics
     * Higher Level International Stream (German, French, Italian languages)
 
+#### Languages Spoken !(https://gyazo.com/6459f26237389f3d0bc862a614de96a5.png)
+
+* English: Mothertongue
+* Italian: Mothertongue
+* French: Mothertongue
+* Spanish: Advanced Working Proficiency
+* German: Elementary Working Proficiency
+
 ### Contact Me
 
 * E-mail: [battilocchilorenzo98@gmail.com](mailto:battilocchilorenzo98@gmail.com) // [lorenzo.battilocchi@ucdconnect.ie](mailto:lorenzo.battilocchi@ucdconnect.ie)
