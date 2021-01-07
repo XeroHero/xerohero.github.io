@@ -53,12 +53,12 @@ During the summer of my first year of college, I iworked as Mobile development i
 * Leaving Certificate High Achiever (505/625)
 * Junior Certificate 2014 Excellence in Modern Languages Award Recipient
 
-Subjects: 
-* Higher Level Mathematics
-* Higher Level English
-* Higher Level Scientific Stream (Biology, Chemistry, Physics)
-* Applied Mathematics
-* Higher Level International Stream (German, French, Italian languages)
+* Subjects: 
+    * Higher Level Mathematics
+    * Higher Level English
+    * Higher Level Scientific Stream (Biology, Chemistry, Physics)
+    * Applied Mathematics
+    * Higher Level International Stream (German, French, Italian languages)
 
 ### Contact Me
 
