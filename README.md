@@ -52,7 +52,6 @@ During the summer of my first year of college, I iworked as Mobile development i
 
 * Leaving Certificate High Achiever (505/625)
 * Junior Certificate 2014 Excellence in Modern Languages Award Recipient
-
 * Subjects: 
     * Higher Level Mathematics
     * Higher Level English
