@@ -42,7 +42,10 @@ During the summer of my first year of college, I iworked as Mobile development i
 
 * Honours Degree: BSc. Computer Science with Major in Software Development and Testing
 * GPA: 3.4
-* Final Year Project: [Development Repository](https://github.com/XeroHero/CO2Aware) [Final Deliverable](https://github.com/XeroHero/FYP-CO2Aware-Android-Application)
+* Final Year Project: 
+    * [Development Repository (Login required)](https://github.com/XeroHero/CO2Aware)
+    * [Final Deliverable (Login required)](https://github.com/XeroHero/FYP-CO2Aware-Android-Application)
+    * [CI/CD Dashboard](https://travis-ci.com/github/XeroHero/CO2Aware)
 
 
 **2011-2016: Dunshaughlin Community College**
