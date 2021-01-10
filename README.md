@@ -1,8 +1,12 @@
 # Lorenzo Battilocchi
 
+[GitHub](https://github.com/xerohero)
+
 Welcome to my Home Page. 
 
 I am a recent University College Dublin Graduate of 2020, passionate about Testing, Software development and Electronics. I enjoy walking and photography is one of my main hobbies, as well as 3D Printing and IoT technologies and networking.
+
+Current project: Rep-rap MK3 3D Printer with Marlin Firmware. Check it out in the Personal Projects section below!
 
 ## Background
 
