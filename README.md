@@ -51,7 +51,7 @@ During the summer of my first year of college, I iworked as Mobile development i
 #### Prusa i3 (RepRap 3D Printer DIY)
 
 * Currently building a DIY 3D Printer with my friend Hannah Bryson. 
-* Running the print firmware [Marlin](https://codeload.github.com/MarlinFirmware/Marlin/) with RepRap Prusa i3 Printer parts. 
+* Running the print firmware [Marlin](https://github.com/MarlinFirmware/Marlin/) with RepRap Prusa i3 Printer parts. 
 * Stay tuned for updates with our adventures in the world of 3D Printing
 
 #### Arduino Sensors (Arduino ProMini)
