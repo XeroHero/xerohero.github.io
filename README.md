@@ -40,6 +40,26 @@ During the summer of my first year of college, I iworked as Mobile development i
 * Sign and release APKs on the public Google Play Store
 * Analyse logs of crashes via HockeyApp logging framework and later on Google Crashlytics
 
+### Personal Projects
+
+#### FreeNAS (TrueNAS)
+
+* Deploy and maintaining a NAS box with VMs running at home on a HP Proliant MicroServer N37L
+* Learnt the basics of network shares and VM/Containerization Technologies
+* Currently hosting my private GOGS repository on the NAS box. Still trying to come up with uses for the other 1.9+TB of space on the HDDs...
+
+#### Prusa i3 (RepRap 3D Printer DIY)
+
+* Currently building a DIY 3D Printer with my friend Hannah Bryson. 
+* Running the print firmware [Marlin](https://codeload.github.com/MarlinFirmware/Marlin/) with RepRap Prusa i3 Printer parts. 
+* Stay tuned for updates with our adventures in the world of 3D Printing
+
+#### Arduino Sensors (Arduino ProMini)
+
+* Working on a "Mobile sensor station" which will capture readings of Air Quality (PM10 and PM2.5), Temperature and Humidity, and more.
+* Powered via 6V motorcycle battery (charged by solar panel during the day)
+* Data transmitted to Raspberry Pi and sent back to Cloud for analysis and visualization.
+
 ### Education
 
 **2016-2020: University College Dublin**
