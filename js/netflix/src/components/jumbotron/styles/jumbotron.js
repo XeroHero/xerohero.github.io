@@ -44,7 +44,10 @@ export const SubTitle = styled.h2`
   }
 `;
 
-export const Image = styled.img``;
+export const Image = styled.img`
+max-width: 100%;
+height:auto`
+;
 
 export const Item = styled.div`
   display: flex;
