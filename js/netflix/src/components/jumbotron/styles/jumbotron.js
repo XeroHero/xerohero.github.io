@@ -51,7 +51,7 @@ height:auto`
 
 export const Item = styled.div`
   display: flex;
-  border-bottom: 8px solid #222;
+  border-bottom: 0px solid #222;
   padding: 50px 5%;
   color: white;
   overflow: hidden;
