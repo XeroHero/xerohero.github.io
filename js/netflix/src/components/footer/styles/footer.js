@@ -20,7 +20,7 @@ export const Column = styled.div`
 
 export const Row = styled.div`
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
   grid-gap: 15px;
 
   @media (max-width: 1000px) {
@@ -31,18 +31,18 @@ export const Row = styled.div`
 export const Link = styled.a`
   color: #757575;
   margin-bottom: 20px;
-  font-size: 13px;
+  font-size: 20px;
   text-decoration: none;
 `;
 
 export const Title = styled.p`
-  font-size: 16px;
+  font-size: 23px;
   color: #757575;
   margin-bottom: 40px;
 `;
 
 export const Text = styled.p`
-  font-size: 13px;
+  font-size: 18px;
   color: #757575;
   margin-bottom: 40px;
 `;
