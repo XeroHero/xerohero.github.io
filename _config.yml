@@ -3,6 +3,6 @@ theme: jekyll-theme-hacker
 github:
   is_project_page: false
 
-url: "https://example.com" # the base hostname & protocol for your site
+url: "https://xerohero.dev" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
