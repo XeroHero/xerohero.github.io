@@ -1,0 +1,54 @@
+# ---------------------- #
+#      Site Configs      #
+# ---------------------- #
+
+name: My Blog
+url: http://my-blog.com
+permalink: blog/:title.html
+paginate: 5
+paginate_path: /page/:num
+excerpt_separator: '<!-- more -->'
+
+
+# ---------------------- #
+#         Jekyll         #
+# ---------------------- #
+
+safe: true
+markdown: redcarpet
+exclude: ['Gemfile', 'Gemfile.lock']
+timezone: Asia/Shanghai
+
+
+# ---------------------- #
+#      Compile Sass      #
+# ---------------------- #
+
+# run `compass help compile` in terminal to find more available options
+sass:
+  sass_dir: _sass
+  debug_info: true
+  # output_style: compressed
+
+
+# ---------------------- #
+#       Deployment       #
+# ---------------------- #
+
+deploy:
+  repository:
+  branch:
+
+
+# ---------------------- #
+#    Social Networks     #
+# ---------------------- #
+
+# weibo:
+#   username:
+#   uid:
+#   appkey:
+
+# duoshuo:
+
+# google_analytics:
