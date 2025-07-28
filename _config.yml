@@ -1,3 +1,4 @@
+runs-on: self-hosted
 theme: jekyll-theme-hacker
 
 github:
