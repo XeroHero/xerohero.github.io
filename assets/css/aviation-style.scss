@@ -63,3 +63,42 @@ table {
 header {
     display: none;
 }
+
+div { // Targeting the main content div
+    max-width: 960px;
+    margin: 20px auto;
+    padding: 20px 30px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); // Subtle shadow
+}
+
+a {
+    color: $link-color;
+    text-decoration: none;
+    transition: color 0.2s ease-in-out; // Smooth transition for hover
+
+    &:hover {
+        color: $link-hover-color;
+        text-decoration: underline;
+    }
+}
+
+// Style for the "Go Back" link
+body > a { // Targets the direct child 'a' of body, which is the "Go Back" link
+    display: inline-block;
+    margin: 20px auto;
+    padding: 10px 15px;
+    background-color: $link-color;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.2s ease-in-out;
+
+    &:hover {
+        background-color: $link-hover-color;
+        text-decoration: none; // Remove underline on hover for button-like links
+    }
+}
+
