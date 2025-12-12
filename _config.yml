@@ -1,5 +1,5 @@
 runs-on: self-hosted
-theme: jekyll-theme-hacker
+theme: jekyll-theme-Airspace-Jekyll
 
 github:
   is_project_page: false
