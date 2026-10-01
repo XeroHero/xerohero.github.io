@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Contact | XeroHero.dev</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Contact - XeroHero" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Get in touch via the contact form" />
+<meta property="og:description" content="Get in touch via the contact form" />
+<link rel="canonical" href="https://xerohero.dev/pages/cartello_contact.html" />
+<meta property="og:url" content="https://xerohero.dev/pages/cartello_contact.html" />
+<meta property="og:site_name" content="xerohero.dev" />
+<!-- End Jekyll SEO tag -->
+
+<style>
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 480px;
+    margin: 40px auto;
+    padding: 0 16px;
+    color: #222;
+  }
+  h1 {
+    font-size: 1.5em;
+  }
+  label {
+    display: block;
+    margin-top: 16px;
+    font-weight: bold;
+  }
+  input, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 4px;
+    font-size: 1em;
+    box-sizing: border-box;
+    font-family: inherit;
+  }
+  textarea {
+    min-height: 120px;
+    resize: vertical;
+  }
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+  }
+  #status {
+    margin-top: 16px;
+  }
+  #status.success {
+    color: green;
+  }
+  #status.error {
+    color: #b00020;
+  }
+  /* Honeypot field: hidden from real users, left visible to bots */
+  .hp-field {
+    position: absolute;
+    left: -9999px;
+  }
+</style>
+
+  </head>
+
+  <body>
+
+    <h1>Contact Me</h1>
+    <p>Fill in the form below and it will be saved to a Google Sheet.</p>
+
+    <form id="contact-form">
+      <label for="name">Name</label>
+      <input type="text" id="name" name="name" required>
+
+      <label for="email">Email</label>
+      <input type="email" id="email" name="email" required>
+
+      <label for="message">Message</label>
+      <textarea id="message" name="message" required></textarea>
+
+      <!-- Honeypot: bots tend to fill every field; humans never see this one -->
+      <div class="hp-field" aria-hidden="true">
+        <label for="company">Company</label>
+        <input type="text" id="company" name="company" tabindex="-1" autocomplete="off">
+      </div>
+
+      <button type="submit">Send</button>
+      <p id="status"></p>
+    </form>
+
+    <p><a href="javascript:history.back()">Go Back</a></p>
+
+<script>
+  // Replace with the Web App URL you get after deploying
+  // google-apps-script/contact-form.gs (Deploy > New deployment > Web app).
+  var SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwuUgwn-RO2TLm266TxB5L2eO1b-FGdNfiBz57qmkTrjbJXwMtzUI1lxa4NSzOviPZpJA/exec';
+
+  var form = document.getElementById('contact-form');
+  var statusEl = document.getElementById('status');
+
+  form.addEventListener('submit', function (event) {
+    event.preventDefault();
+
+    if (form.company.value) {
+      // Honeypot tripped; silently drop the submission.
+      statusEl.textContent = 'Thanks! Your message has been sent.';
+      statusEl.className = 'success';
+      form.reset();
+      return;
+    }
+
+    if (SCRIPT_URL.indexOf('PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE') !== -1) {
+      statusEl.textContent = 'Form is not configured yet: set SCRIPT_URL in this page.';
+      statusEl.className = 'error';
+      return;
+    }
+
+    statusEl.textContent = 'Sending...';
+    statusEl.className = '';
+
+    var formData = new FormData(form);
+
+    // Apps Script Web Apps don't return usable CORS headers on POST
+    // responses, so we fire-and-forget with no-cors and assume success.
+    fetch(SCRIPT_URL, {
+      method: 'POST',
+      mode: 'no-cors',
+      body: formData
+    }).then(function () {
+      statusEl.textContent = 'Thanks! Your message has been sent.';
+      statusEl.className = 'success';
+      form.reset();
+    }).catch(function () {
+      statusEl.textContent = 'Something went wrong. Please try again later.';
+      statusEl.className = 'error';
+    });
+  });
+</script>
+
+</body>
+</html>
